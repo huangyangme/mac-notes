@@ -1,7 +1,7 @@
 ---
 title: 
 slug: 
-created: <% tp.file.creation_date() %>
+created: {{date}} {{time}}
 tags: []
 description: 
 ---

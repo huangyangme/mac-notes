@@ -1,3 +1,12 @@
+---
+title: 
+slug: 
+created: 2025-07-09 16:49
+tags: []
+description: 
+---
+
+
 通过富士官方软件 FUJIFILM X Webcam 可以实现让部分型号的富士相机作为电脑（PC/Mac）的网络摄像头。
 
 首先下载并安装 [FUJIFILM X Webcam 2(macOS 14 or later)软件](https://fujifilm-x.com/global/support/download/software/x-webcam-macos14-or-later/?ref=macpai.cn#mac)，安装后需重启一次 Mac。其他版本软件点[这里](https://fujifilm-x.com/global/support/download/software/?ref=macpai.cn)。
