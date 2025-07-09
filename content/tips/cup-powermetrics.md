@@ -1,5 +1,12 @@
-# 不安装任何软件查看 Mac CPU & GPU 运行功耗
-
+---
+title: 不安装任何软件查看 Mac CPU & GPU 运行功耗
+slug: cup-powermetrics
+created: 2025-07-08
+tags:
+  - Mac功耗
+  - 小技巧
+description: 简短的摘要说明（可选）
+---
 打开终端，输入 `sudo powermetrics` 并会车，然后输入 Mac 登录密码，就能看到很多 Mac 运行状况的信息。往下翻，找到 CPU Power 和 GPU Power。
 
 ![[assets/powermetrics.jpg]]
