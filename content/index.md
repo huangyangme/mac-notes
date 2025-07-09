@@ -20,7 +20,7 @@
 
 [[让你的鼠标好用得媲美Apple Trackpad]]
 
-[[把富士相机变成Mac网络摄像头]]
+[[fuji cam]]
 
 [[Mac 鼠标失灵时如何关机？]]
 
@@ -60,7 +60,7 @@
 
 [[怎么修改 Mac 的 hosts 文件？]]
 
-[[download finder]]
+[[download finder back]]
 
 [[怎么输入苹果LOGO  字符图标？]]
 

@@ -1,6 +1,6 @@
 ---
 title: 把文件夹或应用程序固定在访达工具栏
-slug: 
+slug: finder toolbar
 created: 2025-07-09 16:52
 tags: 
 description:
