@@ -1,7 +1,7 @@
 ---
 title: 如何查看 Mac 笔记本电池健康度历史？
-slug: battery-health
-created: 2025-07-09 17:45
+permalink: battery-health
+date: 2025-07-09 17:45
 tags:
   - 软件
 description:

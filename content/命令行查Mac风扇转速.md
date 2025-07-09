@@ -1,7 +1,7 @@
 ---
 title: 不装软件查看 Mac 温度和转速
-slug: istats
-created: 2025-07-09 17:43
+permalink: istats
+date: 2025-07-09 17:43
 tags: 
 description:
 ---

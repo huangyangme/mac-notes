@@ -1,7 +1,7 @@
 ---
 title: 快速显示 Mac 隐藏文件（快捷键以及第三方工具）
-slug: show-hidden-files
-created: 2025-07-09 17:29
+permalink: show-hidden-files
+date: 2025-07-09 17:29
 tags:
   - 小技巧
   - 软件

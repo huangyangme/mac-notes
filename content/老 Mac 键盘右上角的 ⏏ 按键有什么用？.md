@@ -1,7 +1,7 @@
 ---
 title: 老 Mac 键盘右上角的 ⏏ 按键有什么用？
-slug: eject
-created: 2025-07-09 17:35
+permalink: eject
+date: 2025-07-09 17:35
 tags: 
 description: 这是过去专用来弹出光驱的介质推出（Eject）键
 ---
