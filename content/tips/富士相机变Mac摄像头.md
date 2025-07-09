@@ -1,6 +1,6 @@
 ---
 title: 把富士相机变成Mac网络摄像头
-slug: 
+slug: fuji cam
 created: 2025-07-09 16:49
 tags: 
 description:
