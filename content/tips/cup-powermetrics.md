@@ -2,7 +2,7 @@
 
 打开终端，输入 `sudo powermetrics` 并会车，然后输入 Mac 登录密码，就能看到很多 Mac 运行状况的信息。往下翻，找到 CPU Power 和 GPU Power。
 
-![[powermetrics.jpg]]
+![[assets/powermetrics.jpg]]
 
 进程会持续读取最新的运行状况，记得及时关闭（`control + C`）。
 
