@@ -1,4 +1,11 @@
-  
+---
+title: 几款Mac上的壁纸软件
+slug: wallpaper
+created: 2025-07-09 17:28
+tags:
+  - 软件
+description:
+---
 
 ## [pap.er](http://pap.er/)（免费）
 
