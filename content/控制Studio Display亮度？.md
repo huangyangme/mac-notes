@@ -32,3 +32,6 @@ tags:
 安装 [MonitorControl](https://github.com/MonitorControl/MonitorControl)，搞定！
 
 ![[IMG_2741.gif]]
+
+类似软件还有 [BetterDisplay](https://github.com/waydabber/BetterDisplay) 
+
