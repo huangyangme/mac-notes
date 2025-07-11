@@ -15,7 +15,7 @@ tags:
 
 把键盘的亮度调低和亮度调高键分别映射到 `F14` 和 `F15`上就搞定了。
 
-我的 MelGeek O2 这只键盘可以用 MelGeek 官方软件 MelGeekHive 来修改键位映射。但是这里只能选择 `F1` 到 `F12`，没有`F14` 和 `F15`。
+我的 MelGeek O2 这只键盘可以用 MelGeek 官方软件 [MelGeekHive](https://www.melgeek.cn/download) 来修改键位映射。但是这里只能选择 `F1` 到 `F12`，没有`F14` 和 `F15`。
 
 ![[Screenshot 2025-07-11 09.42.49.jpg]]
 
@@ -25,6 +25,8 @@ tags:
 
 再把键盘的调暗和调亮键分别映射为 `F1`和`F2`，这样就能直接按键盘上这两个键来调节 Studio Display 的显示亮度了，体验就跟用原生键盘一样。
 
+
+![[Screenshot 2025-07-11 10.49.53.jpg]]
 ## 方案二：安装 MonitorControl 这个软件
 
 安装 [MonitorControl](https://github.com/MonitorControl/MonitorControl)，搞定！
