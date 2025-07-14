@@ -5,7 +5,6 @@ date: 2025-07-14T11:02:00
 tags:
   - FinalCutPro
 ---
-
 把 Final Cut Pro 导出不带字幕的视频（可以选低分辨率的，这样快一些），并把导出的视频拖拽到 剪映或MacWhisper 开始自动识别生成字幕，修改调整后，导出 `.srt` 字幕文件。
 
 把 `.srt` 字幕文件导入到 Final Cut Pro 的视频项目中。

@@ -49,6 +49,6 @@ tags:
 
 > [!important] 解释：`shutdown`（关闭）这个命令用来操作 Mac 的开关状态的，-h/-r/-s 分别代表：关机/重启/睡眠，最后加上时间。
 
-  
+没有鼠标怎么让Mac关机？[[no-mouse-shutdown]]
 
 相关阅读：[在“终端”中设置 Mac 定时开关机](https://support.apple.com/zh-cn/guide/mac-help/mchl40376151/mac?ref=macpai.cn)

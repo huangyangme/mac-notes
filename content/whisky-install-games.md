@@ -1,3 +1,11 @@
+---
+title: 通过Whisky安装运行Steam游戏
+description: 
+date: 2025-07-14 15:23
+tags:
+  - 软件
+  - 虚拟机
+---
 ## 下载安装 Whisky
 
 CPU: Apple Silicon (M-series chips)  
@@ -34,9 +42,7 @@ Whisky 点运行，安装SteamSetup.exe
 
 安装完成后登录Steam（若遇到问题就whisky菜单-文件-停止所有容器）
 
-正常打开Steam，把macOS系统和软件语言设置为中文
-
-下载「黑神话悟空性能测试工具」。
+正常打开Steam，把macOS系统和软件语言设置为中文。
 
 [https://blog.aliluya.com/archives/ImBbDAXx](https://blog.aliluya.com/archives/ImBbDAXx)
 

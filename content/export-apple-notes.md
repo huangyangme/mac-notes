@@ -1,5 +1,5 @@
 ---
-title: 完整导出苹果备忘录全部笔记
+title: 完整导出苹果备忘录笔记
 description: 
 date: 2025-07-14T11:16:00
 tags:
@@ -27,3 +27,8 @@ Apple ID 下的用户数据都可以在苹果官网打包下载，用浏览器�
 ## Automator Workflow（from Bear app）
 
 另外，[Bear app](https://bear.app) 官方也提供了导出备忘录笔记的 [Automator Workflow](https://bear.app/faq/migrate-from-apple-notes/)。
+
+
+## ProNotes
+
+[ProNotes](https://www.pronotes.app) 虽然不能帮助导出备忘录笔记，但它是一款 Mac 备忘录 app 增强扩展工具，可以让 Mac 备忘录支持 Markdown、类似 Notion 的斜杠命令、模版等，值得一提。
