@@ -7,7 +7,7 @@ tags:
 description:
 ---
 
-## [pap.er](http://pap.er/)（免费）
+## pap.er（免费）
 
 [pap.er](https://paper.meiyuan.in/) 是一个专为 Mac 设计的免费壁纸应用。可以在顶部栏选择和一键设置桌面壁纸，还可以定时随机更换壁纸。多数壁纸都支持 4K、5K分辨率，甚至有些还是竖屏手机壁纸。
 
