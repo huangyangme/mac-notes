@@ -5,9 +5,14 @@ date:
 tags:
   - 软件
 ---
-首先在 App Store（国区也可）下载 [fullmoon](https://fullmoon.app) 这款免费 App。
+安装 [Ollama](https://ollama.com)。
 
-下载好打开，就会先提示你安装第一个本地大模型，不过只有 1.5b 的两个蒸馏，更大了手机怕是也跑不动。选 1.9GB 的那个 `deepseed-r1-1.5b-8bit` 并点右上角 install 来下载（可能需要科学上网）。
+[搜索](https://ollama.com/search)找到你想要的模型。
 
-![[STIIITCH_2025_02_07_05_33_15.f2403474d95546ba9229f2a061a56868.jpg]]
-下载好就可以跟 DeepSeek R1 对话啦！只不过不要对 1.5b 蒸馏的效果有什么期待，当个玩具看看就好。
+复制蒸馏模型安装命令，并在终端中输入，开始下载模型。
+
+![[DraggedImage.469c5a0de0934bfba4291bd9fd495e3f.jpg]]
+
+安装 [Enchanted](https://apps.apple.com/cn/app/enchanted-llm/id6474268307) 这个免费 Mac 软件（在 App Store 直接下载）可以拥有 GUI（用户界面）。使用 Enchanted 时也要确保 Ollama 在后台运行。
+
+想要在 iOS/iPadOS 上安装使用本地模型，可以试试 [fullmoon](https://fullmoon.app) 这款免费 App（App Store 国区也可）。
