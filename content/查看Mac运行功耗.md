@@ -1,5 +1,5 @@
 ---
-title: 查看Mac CPU&GPU运行功耗（不装软件）
+title: 查看 Mac CPU&GPU 运行功耗（不装软件）
 aliases:
   - powermetrics
 date: 2025-07-08
