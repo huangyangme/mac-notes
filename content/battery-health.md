@@ -14,3 +14,5 @@ description:
 以上不仅适用于 Mac，也适用于 iPhone 和 iPad 的电池（毕竟都是用的锂电池）。
 
 [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) 这款 Mac 软件可以记录 Mac 笔记本的电池健康状况，还可以检查 iPhone 和 iPad 的==电池健康信息==。
+
+![[v400_classicview_history.bb0d233ba22e4600b2eafc460cffcba9.jpg]]
