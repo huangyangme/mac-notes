@@ -1,10 +1,10 @@
 ---
-title: 如何保养 Mac 电池?
 date: 2025-07-09 17:38
 tags:
   - 经验
 description:
 ---
+# 如何保养 Mac 电池?
 
 - ==避免高温==，高温会影响电池的健康。
 - 避免过充（长时间连着电使用）和过放（把电池用尽）。
@@ -12,3 +12,5 @@ description:
 - 开启“优化电池充电”功能（最新的 macOS、iOS 和 iPadOS 都提供此功能），有助于使电池保持在更健康的充电水平更长时间。
 
 以上不仅适用于 Mac，也适用于 iPhone 和 iPad 的电池（毕竟都是用的锂电池）。
+
+[coconutBattery](https://www.coconut-flavour.com/coconutbattery/) 这款 Mac 软件可以记录 Mac 笔记本的电池健康状况，还可以检查 iPhone 和 iPad 的==电池健康信息==。

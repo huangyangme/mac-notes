@@ -1,6 +1,6 @@
 ---
 title: 
 description: 
-date:
+date: {{date:YYYY-MM-DD HH:mm}}
 tags:
 ---

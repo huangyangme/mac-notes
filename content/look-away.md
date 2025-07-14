@@ -1,3 +1,12 @@
+---
+title: Mac 上的用眼提醒工具
+description: 
+date: 2025-07-14 14:42
+tags:
+  - 软件
+  - 效率
+---
+
 ## Eye Monitor
 
 [Eye Monitor](https://apps.apple.com/cn/app/eye-monitor-break-reminders/id1527031341) 是 macOS 上的一款用眼监控软件，无需任何设定，即可根据用户行为自动判断并在疲劳时提醒。
