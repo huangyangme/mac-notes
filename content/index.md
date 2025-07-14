@@ -18,7 +18,7 @@
 
 ## 硬件维护和配件
 
-[[让鼠标好用媲美Apple Trackpad]]
+[[mac-mouse-fix]]
 
 [[fuji-webcam]]
 
@@ -30,7 +30,7 @@
 
 [[Mac 如何通过终端命令关机？]]
 
-[[如何清洁 Mac 机身？]]
+[[clear-mac-body]]
 
 [[battery-health]]
 
@@ -54,7 +54,7 @@
 
 [[Mac 上快速查看照片的 EXIF 信息（不装软件）]]
 
-[[如何关闭 macOS 截屏时的浮动缩略图？]]
+[[turn off floating thumbnails screenshots]]
 
 [[show-hidden-files]]
 
