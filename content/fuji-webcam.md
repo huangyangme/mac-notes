@@ -4,6 +4,7 @@ permalink:
 date: 2025-07-09 16:49
 tags:
   - 小技巧
+  - 相机
 description:
 ---
 
@@ -48,13 +49,11 @@ description:
 
 ## 其他品牌相机类似功能
 
-佳能相机下载[「EOS Webcam Utility」](https://www.canon.com.cn/special/webcam/index.html)。
-``
+- 佳能相机下载[「EOS Webcam Utility」](https://www.canon.com.cn/special/webcam/index.html)。
+- 索尼相机下载[「Imaging Edge Webcam 」](https://support.d-imaging.sony.co.jp/app/webcam/en/)。
+- 尼康相机下载[「Webcam Utility」](https://downloadcenter.nikonimglib.com/zh-cn/products/548/Webcam\_Utility.html)。
 
-索尼相机下载[「Imaging Edge Webcam 」](https://support.d-imaging.sony.co.jp/app/webcam/en/)。
-
-尼康相机下载[「Webcam Utility」](https://downloadcenter.nikonimglib.com/zh-cn/products/548/Webcam\_Utility.html)。
-
+[[video-capture]]
 
 官方使用指南：[https://fujifilm-dsc.com/en/manual/webcam/](https://fujifilm-dsc.com/en/manual/webcam/?ref=macpai.cn)
 我的视频教程：[https://www.bilibili.com/video/BV1sL4y1A7ie/](https://www.bilibili.com/video/BV1sL4y1A7ie/?spm_id_from=333.337.search-card.all.click&vd_source=2c6d36c198a49221a729c152cec6f972&ref=macpai.cn)

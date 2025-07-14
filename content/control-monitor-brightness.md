@@ -37,3 +37,5 @@ tags:
 
 类似软件还有 [BetterDisplay](https://github.com/waydabber/BetterDisplay) 
 
+另外 [🔆 Vivid](https://goodsnooze.gumroad.com/l/vivid?layout=profile) 这款软件可以==让Mac笔记本屏幕亮度加倍==。
+
