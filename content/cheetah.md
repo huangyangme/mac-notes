@@ -1,7 +1,7 @@
 ---
 title: Cheetah：免费的虚拟机软件，支持安装macOS和Linux
 description: 
-date: 
+date: 2025-07-14T15:01:00
 tags:
   - 虚拟机
   - 软件
