@@ -1,7 +1,9 @@
 ---
 title: 不装软件查看 Mac 温度和转速
 date: 2025-07-09 17:43
-tags: 
+tags:
+  - 小技巧
+  - 软件
 description: iStats 是一款命令行工具，可让你直接在终端输入命令就能获取 Mac 的风扇速度和电池信息。
 ---
 
@@ -16,3 +18,5 @@ description: iStats 是一款命令行工具，可让你直接在终端输入命
 
 
 安装「[腾讯柠檬清理](https://lemon.qq.com/?ref=macpai.cn)」、「[iStat Menus](https://bjango.com/mac/istatmenus/?ref=macpai.cn)」这类第三方工具也可以查看风扇转速。
+
+**[Macs Fan Control](https://crystalidea.com/macs-fan-control/download)** 这款软件可以自定义 Mac 散热风扇的转速。软件支持免费使用，高级版可以解锁更多自定义功能。

@@ -2,7 +2,7 @@
 title: 如何保养 Mac 电池?
 date: 2025-07-09 17:38
 tags:
-  - 小技巧
+  - 经验
 description:
 ---
 

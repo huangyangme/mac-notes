@@ -1,6 +1,5 @@
 ---
-title: 如何卸载 Final Cut Pro 插件？
-permalink: uninstall-fcp-plug-ins
+title: 卸载 Final Cut Pro 插件
 date: 2025-07-09 17:46
 tags:
   - FinalCutPro

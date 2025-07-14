@@ -9,4 +9,4 @@
 
 [![](https://macpai.cn/content/images/2025/01/---------------59--------.png)](https://macpai.cn/content/images/2025/01/---------------59--------.png)
 
-另外也可以尝试[[Mac 如何通过终端命令关机？]]。
+另外也可以尝试[[term-shutdown]]。

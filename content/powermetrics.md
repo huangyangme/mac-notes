@@ -1,6 +1,5 @@
 ---
 title: 查看 Mac CPU&GPU 运行功耗（不装软件）
-aliases: []
 date: 2025-07-08
 tags:
   - Mac功耗

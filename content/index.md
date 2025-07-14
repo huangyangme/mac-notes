@@ -4,11 +4,11 @@
 
 [[Mac上怎么打开CAJ格式的文件？]]
 
-[[Cheetah：免费的虚拟机软件，支持安装macOS和Linux]]
+[[cheetah]]
 
 [[Mac 上的软件辅助卸载工具]]
 
-[[怎么在 iPhone-iPad 本地跑 DeepSeek R1？]]
+[[ios-run-deepseek]]
 
 [[wallpaper-apps]]
 
@@ -28,7 +28,7 @@
 
 [[eject]]
 
-[[Mac 如何通过终端命令关机？]]
+[[term-shutdown]]
 
 [[clear-mac-body]]
 
@@ -42,15 +42,15 @@
 
 ## 小技巧
 
-[[用 Final Cut Pro 导出带烧录字幕的视频]]
+[[final-cut-pro-Subtitle]]
 
-[[无法打开安装的软件]]
+[[unable-to-open-installed-software]]
 
 [[powermetrics]]
 
 [[Mac上创建加密的文件（夹）的三种方式]]
 
-[[下载的 pkg 安装包无法双击打开？]]
+[[pkg-open-error]]
 
 [[Mac 上快速查看照片的 EXIF 信息（不装软件）]]
 
@@ -58,21 +58,21 @@
 
 [[show-hidden-files]]
 
-[[怎么修改 Mac 的 hosts 文件？]]
+[[mac-hosts]]
 
-[[找回程序坞下载文件夹]]
+[[download-finder-back]]
 
-[[怎么输入苹果LOGO  字符图标？]]
+[[apple-logo]]
 
-[[卸载Final Cut Pro插件]]
+[[uninstall-fcp-plug-ins]]
 
 [[快速查看 Mac CPU & GPU 运行功耗 2]]
 
 [[Whisky 安装《黑神话：悟空》]]
 
-[[怎么删除苹果（儿童）账户？]]
+[[delete-apple-id]]
 
-[[文件夹或应用固定在访达工具栏]]
+[[finder-toolbar]]
 
 [[怎么移动macOS状态栏图标位置？]]
 

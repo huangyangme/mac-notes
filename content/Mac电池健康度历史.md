@@ -6,6 +6,4 @@ tags:
   - 软件
 description:
 ---
-
-
 [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) 这款 Mac 软件可以记录 Mac 笔记本的电池健康状况，还可以检查 iPhone 和 iPad 的电池健康信息。
