@@ -1,6 +1,6 @@
 ---
-title: 不安装任何软件查看 Mac CPU & GPU 运行功耗
-url: cup-powermetrics
+title: 查看Mac CPU&GPU运行功耗（不装软件）
+url: powermetrics
 date: 2025-07-08
 tags:
   - Mac功耗
