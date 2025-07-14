@@ -1,6 +1,5 @@
 ---
 title: 如何保养 Mac 电池?
-permalink: mac-batterie
 date: 2025-07-09 17:38
 tags:
   - 小技巧

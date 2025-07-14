@@ -10,7 +10,7 @@
 
 [[怎么在 iPhone-iPad 本地跑 DeepSeek R1？]]
 
-[[几款Mac壁纸软件]]
+[[wallpaper-apps]]
 
 [[一款可以手动控制Mac风扇转速的软件]]
 
@@ -20,19 +20,19 @@
 
 [[让鼠标好用媲美Apple Trackpad]]
 
-[[富士相机变Mac摄像头]]
+[[fuji-webcam]]
 
 [[Mac 鼠标失灵时如何关机？]]
 
-[[命令行查Mac风扇转速]]
+[[istats-fans]]
 
-[[老 Mac 键盘右上角的 ⏏ 按键有什么用？]]
+[[eject]]
 
 [[Mac 如何通过终端命令关机？]]
 
 [[如何清洁 Mac 机身？]]
 
-[[保养Mac电池]]
+[[battery-health]]
 
 [[Mac电池健康度历史]]
 
@@ -46,7 +46,7 @@
 
 [[无法打开安装的软件]]
 
-[[查看Mac运行功耗]]
+[[powermetrics]]
 
 [[Mac上创建加密的文件（夹）的三种方式]]
 
@@ -56,7 +56,7 @@
 
 [[如何关闭 macOS 截屏时的浮动缩略图？]]
 
-[[快速显示Mac隐藏文件]]
+[[show-hidden-files]]
 
 [[怎么修改 Mac 的 hosts 文件？]]
 

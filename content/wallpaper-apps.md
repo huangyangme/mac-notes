@@ -1,6 +1,5 @@
 ---
 title: 几款Mac上的壁纸软件
-permalink: wallpaper
 date: 2025-07-09 17:28
 tags:
   - 软件

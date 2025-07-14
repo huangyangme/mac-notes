@@ -1,7 +1,6 @@
 ---
-title: 第三方键盘如何控制Studio Display亮度？
+title: 如何用键盘控制Studio Display以及其他三方显示屏的亮度？
 description: 越来越多的第三方键盘针对 Mac 做了适配，比如用 F1 来调暗MacBook屏幕亮度，但是如果你搭配的是Studio Display，会发现这样操作无效。
-permalink: control-studio-display
 date: 2025-07-09T17:56:00
 tags:
   - 鼠键

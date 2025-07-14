@@ -1,7 +1,6 @@
 ---
 title: Mac状态栏显示Mac运行状态
 description: 
-permalink: menubar-state
 date: 2025-07-09T17:56:00
 tags:
   - 软件
