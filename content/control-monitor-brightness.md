@@ -31,11 +31,15 @@ tags:
 ![[Screenshot 2025-07-11 10.49.53.jpg]]
 ## 方案二：安装 MonitorControl 这个软件
 
-安装 [MonitorControl](https://github.com/MonitorControl/MonitorControl)，搞定！
+安装 [MonitorControl](https://github.com/MonitorControl/MonitorControl)（开源免费），搞定！
 
 ![[IMG_2741.gif]]
 
-类似软件还有 [BetterDisplay](https://github.com/waydabber/BetterDisplay) 
+类似软件还有 [BetterDisplay](https://github.com/waydabber/BetterDisplay) 。
+
+[ScreenFocus](https://www.apptorium.com/screenfocus) 可以分别控制多显示器的亮度。
+
+开发者的其他app https://www.apptorium.com/apps
 
 另外 [🔆 Vivid](https://goodsnooze.gumroad.com/l/vivid?layout=profile) 这款软件可以==让Mac笔记本屏幕亮度加倍==。
 
