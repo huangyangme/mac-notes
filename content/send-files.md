@@ -10,3 +10,4 @@ tags:
 
 [LocalSend](https://localsend.org)，去中心化，将文件分享到附近的设备。免费、开源、跨平台（Windows、macOS、Linux、Android和iOS）。
 
+[FileTunnel](https://github.com/Helixform/GetFileTunnel) 能以**快到离谱**的速度从 iPhone（USB 3.1）传输文件到 Mac。不过因为 App 尚在 beta（开发测试）阶段，所以目前它的限制也多多。目前软件完全免费，需要通过 TestFlight 下载。
