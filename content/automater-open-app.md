@@ -1,5 +1,5 @@
 ---
-title: 不借助第三方app实现快捷键打开任意软件
+title: 不借助第三方app实现快捷键打开软件
 description: 
 date: 2025-07-14 16:27
 tags:
