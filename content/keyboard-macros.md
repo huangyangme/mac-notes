@@ -1,6 +1,6 @@
 ---
-title: 一键输入密码字符串
-description: 好在我的两只键盘（QUNIX Magi65 和 MelGeek O2）都支持 QMK 和 VIA，本身支持自由改键，以及要实现我上面说的功能需要用到的「宏」定义。
+title: 一键输入密码并回车
+description: 我用的是第三方键盘，本身没有 Touch ID键，每次遇到要输入用户密码（6位数字）总要手动敲一边。如果能实现按键盘上某个键，就能自动依次输入一串字符就好了。
 date: 2025-07-17 15:56
 tags:
   - 鼠键
@@ -35,6 +35,8 @@ tags:
 MelGeek O2 也能借助宏定义实现同样的功能，不过需要用它自家的 MelGeekHive 驱动软件。
 
 ![[Screenshot 2025-07-17 16.24.15.jpg]]
+
+![[IMG_2963 2.gif]]
 
 关联：
 [[iqunix-via]]
