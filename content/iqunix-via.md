@@ -28,4 +28,7 @@ iQunix 部分新款键盘（比如 MG65）已经支持 VIA 改键，使用 Chrom
 [https://iqunix.com/blogs/news/magi-65-via-guide](https://iqunix.com/blogs/news/magi-65-via-guide)
 https://iqunix.com/blogs/news/magi65
 
-Keychron 键盘改键：[[keychron-via]]
+
+关联：
+[[keychron-via]]
+[[keyboard-macros]]
