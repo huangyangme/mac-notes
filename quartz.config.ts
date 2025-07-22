@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Mac使用笔记",
-    pageTitleSuffix: "",
+    pageTitle: "macbiji.com",
+    pageTitleSuffix: "Mac使用笔记",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
