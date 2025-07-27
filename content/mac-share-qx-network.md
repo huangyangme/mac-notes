@@ -11,4 +11,4 @@ Mac 上安装 ==Quantumult X==（需要外区Apple ID，并且是付费软件，
 
 开启“互联网共享”，共享来源连接选“QX”，共享端口选Wi-Fi。
 
-参考：https://hoohoo.top/blog/how-to-share-a-vpn-network-on-your-mac-as-a-source-of-wi-fi-hotspots/
+参考：[https://hoohoo.top/blog/how-to-share-a-vpn-network-on-your-mac-as-a-source-of-wi-fi-hotspots/](https://hoohoo.top/blog/how-to-share-a-vpn-network-on-your-mac-as-a-source-of-wi-fi-hotspots/)
