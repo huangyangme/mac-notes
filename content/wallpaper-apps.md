@@ -37,3 +37,7 @@ macOS 10.14 开始支持随时间而变化的动态桌面壁纸。会根据你�
 最后推荐的这个 [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) 就是一个 Mac 动态壁纸下载网站。只要把下载的 heic 文件设置为 macOS 壁纸即可。
 
 这个网站内目前发布了包含 15 个分类近 60 张动态壁纸，比如日本动画片场景、地球、城市等等，非常漂亮。而且全部可以免费下载。
+
+## 真正的极简壁纸
+
+[Simple Desktops](https://simpledesktops.com/browse/) 一组旨在让您的电脑美观且不分散注意力的壁纸。
