@@ -108,7 +108,7 @@ done
 
 ## 其他补充
 
-作为各类动作基础的 Workflow 也可以随时转换成别的动作（其实任何动作都能够互相转换）。方法是在 Automator 里按下 `⇧Shift - ⌥Option - ⌘Command - C` 进行格式转换，然后保存。
+作为各类动作基础的 Workflow 也可以随时转换成别的动作（其实任何动作都能够互相转换）。方法是在 Automator 里按下 ==shift - option - command - C== 进行格式转换，然后保存。
 
 
 不同类型的 Automator 动作在 macOS 中保存的位置：
