@@ -3,6 +3,10 @@ title: iPad变身便携屏
 description: 
 date: 2025-08-12 21:35
 tags:
+  - 好玩
+  - 相机
+  - iPad
+  - 游戏
 ---
 得益于 ==iPadOS 17== 加入对 UVC 的支持，只要有一个 ==USB-C 转 HDMI 的 UVC 视频采集卡==，就可以让 ==USB-C 接口的 iPad== 变成 Nintendo Switch 等游戏主机的显示器、相机的监视器，甚至连 Apple TV 的随身电视屏幕。
 
@@ -23,3 +27,4 @@ iPad 需要先安装支持 UVC 的软件，推荐下面三款（皆免费）：
 ![[Screenshot 2025-08-12 21.58.43.jpg]]
 
 
+Studio Display 连 Nintendo Switch 最经济方案 [[Studio Display to Nintendo Switch]]
