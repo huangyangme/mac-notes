@@ -1,12 +1,12 @@
 ---
-title: 我的Mac使用笔记
+title: 我的工具箱
 description: 
 date: 2025-07-22 15:22
 tags:
 ---
 
 
-# 我的Mac使用笔记
+# 我的工具箱
 
 试试 👉 `command` + `K`
 
