@@ -27,4 +27,4 @@ iPad 需要先安装支持 UVC 的软件，推荐下面三款（皆免费）：
 ![[Screenshot 2025-08-12 21.58.43.jpg]]
 
 
-Studio Display 连 Nintendo Switch 最经济方案 [[Studio Display to Nintendo Switch]]
+[[Studio Display to Nintendo Switch]]

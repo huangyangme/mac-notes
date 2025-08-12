@@ -20,4 +20,4 @@ tags:
 
 ![[DSCF4331.ea0dcda3f5b94467b65254b9bfee8518.jpg]]
 
-[iPad变身便携屏]()[[ipad-monitor]]
+[[ipad-monitor]]
