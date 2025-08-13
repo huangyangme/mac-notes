@@ -6,7 +6,7 @@ tags:
   - 软件
   - Windows
 ---
-BuhoNTFS (免费）
+BuhoNTFS
 [https://www.drbuho.com/zh-tw/buhontfs](https://www.drbuho.com/zh-tw/buhontfs)
 
 Paragon NTFS for MAC
