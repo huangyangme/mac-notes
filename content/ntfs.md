@@ -22,9 +22,4 @@ tags:
 
 [Microsoft NTFS for Mac by Paragon Software](https://china.paragon-software.com/home-mac/ntfs-for-mac/)（¥139）
 
-[Omi NTFS磁盘专家](https://zh.okaapps.com/product/1580856488)
-
-
-
-[https://tw.easeus.com/ntfs-mac-tips/free-ntfs-on-mac.html](https://tw.easeus.com/ntfs-mac-tips/free-ntfs-on-mac.html)
-[https://www.drbuho.com/zh-tw/how-to/read-write-ntfs-drives-on-mac](https://www.drbuho.com/zh-tw/how-to/read-write-ntfs-drives-on-mac)
+[Omi NTFS磁盘专家](https://zh.okaapps.com/product/1580856488)（¥148买断）
