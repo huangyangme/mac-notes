@@ -1,7 +1,7 @@
 ---
 title: iPad变身便携屏
 description: 
-date: 2025-08-12 21:35
+date: 2025-08-13 21:22
 tags:
   - 好玩
   - 相机
@@ -27,4 +27,4 @@ iPad 需要先安装支持 UVC 的软件，推荐下面三款（皆免费）：
 ![[Screenshot 2025-08-12 21.58.43.jpg]]
 
 
-[[Studio Display to Nintendo Switch]]
+[[Studio Display to Nintendo Switch|让Studio DIsplay支持连Switch主机]]

@@ -14,11 +14,7 @@ Apple ID 下的用户数据都可以在苹果官网打包下载，用浏览器�
 
 ## 第三方工具导出
 
-不想等待那么久，也可以使用第三方工具来导出，比如 [Exporter](https://apps.apple.com/cn/app/exporter/id1099120373?mt=12)（可以在 Mac App Store 免费下载）。
-
-用 Exporter 导出前还可以**设置导出笔记命名规则和 Markdown 格式**。
-
-用 Exporter 成功导出的笔记是 Markdown 格式，正文语法也会转化成 Markdown 语法，非常适合迁出至支持 Markdown 的笔记平台。
+ [Exporter](https://apps.apple.com/cn/app/exporter/id1099120373?mt=12)可以把备忘录笔记批量导出为 ==Markdown 格式==，正文语法也会转化成 Markdown 语法，导出前还可以设置导出笔记命名规则。
 
 ## 导出整个备忘录数据库
 
@@ -26,8 +22,7 @@ Apple ID 下的用户数据都可以在苹果官网打包下载，用浏览器�
 
 ## Automator Workflow（from Bear app）
 
-另外，[Bear app](https://bear.app) 官方也提供了导出备忘录笔记的 [Automator Workflow](https://bear.app/faq/migrate-from-apple-notes/)。
-
+[Bear app](https://bear.app) 官方提供的导出备忘录笔记的 [Automator Workflow](https://bear.app/faq/migrate-from-apple-notes/)。
 
 ## ProNotes
 

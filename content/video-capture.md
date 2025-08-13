@@ -17,4 +17,4 @@ tags:
 
 我的视频教程：[把相机变身电脑4K摄像头（采集卡方案）](https://www.bilibili.com/video/BV1UG411R7z4/)
 
-[[fuji-webcam]]
+[[fuji-webcam |富士相机上的准备设置（以X-S10为例）]]

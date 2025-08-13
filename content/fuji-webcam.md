@@ -53,7 +53,7 @@ description:
 - 索尼相机下载[「Imaging Edge Webcam 」](https://support.d-imaging.sony.co.jp/app/webcam/en/)。
 - 尼康相机下载[「Webcam Utility」](https://downloadcenter.nikonimglib.com/zh-cn/products/548/Webcam\_Utility.html)。
 
-[[video-capture]]
+[[video-capture|用视频采集卡采集（录制）富士相机4K画面到Mac]]
 
 官方使用指南：[https://fujifilm-dsc.com/en/manual/webcam/](https://fujifilm-dsc.com/en/manual/webcam/?ref=macpai.cn)
 我的视频教程：[https://www.bilibili.com/video/BV1sL4y1A7ie/](https://www.bilibili.com/video/BV1sL4y1A7ie/?spm_id_from=333.337.search-card.all.click&vd_source=2c6d36c198a49221a729c152cec6f972&ref=macpai.cn)
