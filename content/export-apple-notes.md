@@ -32,3 +32,5 @@ Apple ID 下的用户数据都可以在苹果官网打包下载，用浏览器�
 ## ProNotes
 
 [ProNotes](https://www.pronotes.app) 虽然不能帮助导出备忘录笔记，但它是一款 Mac 备忘录 app 增强扩展工具，可以让 Mac 备忘录支持 Markdown、类似 Notion 的斜杠命令、模版等，值得一提。
+
+PS：Apple OS 26 开始，Notes 支持 markdown 的导入和导出。
