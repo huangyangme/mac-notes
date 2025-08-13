@@ -35,11 +35,5 @@ tags:
 
 ![[IMG_2741.gif]]
 
-类似软件还有 [BetterDisplay](https://github.com/waydabber/BetterDisplay) 。
-
-[ScreenFocus](https://www.apptorium.com/screenfocus) 可以分别控制多显示器的亮度。
-
-开发者的其他app https://www.apptorium.com/apps
-
-另外 [🔆 Vivid](https://goodsnooze.gumroad.com/l/vivid?layout=profile) 这款软件可以==让Mac笔记本屏幕亮度加倍==。
+类似软件 [[mac-apps#显示器控制增强]]。
 

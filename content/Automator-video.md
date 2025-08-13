@@ -1,3 +1,9 @@
+---
+title: 借助Automator（自动操作）开发一个视频瘦身工具
+description: 
+date: 2025-08-13 22:26
+tags:
+---
 ## 如何使用
 
 ![[Screenshot 2025-08-08 16.25.53.jpg]]

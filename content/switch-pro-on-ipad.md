@@ -25,4 +25,4 @@ Joy-Con 手柄是分别长按下图这里的小圆形按钮，黄绿色的灯会
 
 ![[STIIITCH_2022_06_09_11_23_45.43330f32734149b8bdcfe4ff4770208f.jpg]]
 
-[[games-support-controller]]
+[[games-support-controller|支持手柄玩的游戏]]
