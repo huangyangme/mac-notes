@@ -6,8 +6,9 @@ tags:
   - 软件
   - Windows
 ---
-BuhoNTFS
-[https://www.drbuho.com/zh-tw/buhontfs](https://www.drbuho.com/zh-tw/buhontfs)
+[赤友NTFS for Mac](https://aibotech.cn/ntfs-for-mac/)，点[这里正版优惠购买](https://lizhi.shop/products/iboysoft-ntfs-for-mac?cid=kj7dpz0h)（¥36）
+
+[BuhoNTFS](https://www.drbuho.com/zh-tw/buhontfs)
 
 Paragon NTFS for MAC
 [https://www.ntfsformac.cn/](https://www.ntfsformac.cn/)
