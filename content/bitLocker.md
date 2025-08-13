@@ -5,6 +5,7 @@ date: 2025-07-14 15:09
 tags:
   - 软件
   - 小技巧
+  - Windows
 ---
 ==BitLocker== 是 Windows 系统内置的加密功能，有点像 macOS 上的“文件保险箱”（FileVault）。
 
