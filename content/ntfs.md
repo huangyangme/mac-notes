@@ -8,10 +8,9 @@ tags:
 ---
 [赤友NTFS for Mac](https://aibotech.cn/ntfs-for-mac/)，点[这里正版优惠购买](https://lizhi.shop/products/iboysoft-ntfs-for-mac?cid=kj7dpz0h)（¥36）
 
-[BuhoNTFS](https://www.drbuho.com/zh-tw/buhontfs)
+[BuhoNTFS](https://www.drbuho.com/zh-tw/buhontfs) （7 天试用，¥48）
 
-Paragon NTFS for MAC
-[https://www.ntfsformac.cn/](https://www.ntfsformac.cn/)
+[Paragon NTFS for MAC](https://www.ntfsformac.cn)（¥214）
 
 Mac System NTFS Tool
 [https://ntfstool.com/](https://ntfstool.com/)
