@@ -128,6 +128,8 @@ python3 split_textbundle.py
 
 现在我们可以把 `split_output` 文件夹里的所有文件——包括 Markdown 文章和图片——备份到别的地方，或者迁移到 Typora、Obsidian 等你喜欢用的其他 Markdown 编辑写作工具。
 
+[Git 项目（欢迎 Star）](https://github.com/huangyangme/split-textbundle.git)
+
 ----
 
 另外两个不太完美的脚本方案
